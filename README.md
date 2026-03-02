@@ -423,6 +423,7 @@ This tool is for educational and research purposes only. Please ensure you compl
 - Be mindful of privacy and data protection laws
 
 ---
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/33c4c1e0-2dab-44d7-b371-908507580fe5" />
 
 
 
