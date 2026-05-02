@@ -10,7 +10,7 @@ from logging import basicConfig ,getLogger,exception
 basicConfig(level=20, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = getLogger(__name__)
 logger.propagate = False
-
+ 
 clear()
 # os.environ['ALL_PROXY'] = "socks5h://3Ixf4HKMEZ-zone-star-region-US:39179679@na.a79a246354fe7beb.abcproxy.vip:4950"
 
